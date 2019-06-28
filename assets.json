@@ -1,7 +1,7 @@
 {
-  "vendors.css": "/static/css/vendors.b051c82200a1ee756ad3.css",
-  "vendors.js": "/static/js/vendors.f0768161.js",
-  "app.js": "/static/js/app.b051c82200a1ee756ad3.js",
-  "src-use-title-index.js": "/static/js/src-use-title-index.bb15363f.js",
-  "index.html": "/index.html"
+  "vendors.css": "/hooks/static/css/vendors.c9159bc78f0d30a790b4.css",
+  "vendors.js": "/hooks/static/js/vendors.81593205.js",
+  "app.js": "/hooks/static/js/app.c9159bc78f0d30a790b4.js",
+  "src-use-title-index.js": "/hooks/static/js/src-use-title-index.bb15363f.js",
+  "index.html": "/hooks/index.html"
 }
