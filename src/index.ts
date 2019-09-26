@@ -17,5 +17,5 @@ export {
   useDynamicList,
   useResponsive,
   configResponsive,
-  configRequest,
+  configRequest
 };

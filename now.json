@@ -1,6 +1,6 @@
 {
   "name": "hooks",
-  "scope": "umijs",
+  "scope": "576679268",
   "builds": [
     {
       "src": "now-build.sh",
